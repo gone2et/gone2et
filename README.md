@@ -1,16 +1,17 @@
-## Hi there 👋
+안녕하세요! 나는 고니야. 👋
+내 취미는:
+- 게임 👾
+- 코딩 
+- 음악 제작 🎧
 
-<!--
-**gone2et/gone2et** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+지금 좋아는 게임 들
+- 마인크레프트
+- 메이플
+- VATORANT (잘 못해 ㅠㅠ)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+난 쓸 수 있는 프로그래밍 언어 들
+- 파이썬
+- JS
+- C#
+- C++
+- HTML
